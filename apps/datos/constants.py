@@ -1,0 +1,2 @@
+ACTIVE = True
+INACTIVE = False
